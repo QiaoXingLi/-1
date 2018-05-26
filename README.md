@@ -18,6 +18,10 @@ Paranoid Android (Java, XML)
 ---
 Behold my custom template codes for Android Native applications that I built and *other stuffs that make -1 sense*.
 
+* Best practices in Android
+ * Project Structure
+ * Package Contents
+ * Receivers, Listeners & Adapters
 * Facebook Account Kit
 * Google Map
 * Data uploading with HTTP client, OkHttp3 (GET, POST, PUT, DELETE)
