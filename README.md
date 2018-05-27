@@ -22,8 +22,11 @@ Behold my custom template codes for Android Native applications that I built and
  * Project Structure
  * Package Contents
  * Receivers, Listeners & Adapters
-* Facebook Account Kit
+* Facebook Account Kit OTP
 * Google Map
+* Camera
+  * CameraManager
+  * CameraPreview
 * Data uploading with HTTP client, OkHttp3 (GET, POST, PUT, DELETE)
   * Text Upload to API
   * Image Upload to API
@@ -38,8 +41,14 @@ Behold my custom template codes for Android Native applications that I built and
 * Working with JSON data
   * Parsing JSON Array and JSON Object from API 
   * Dynamic Form Template Generation from JSON Data 
-* Bottom Navigation UI Design
-
+* Material UI Design
+ * Bottom Navigation UI
+ * CardView + RecyclerView UI
+ * LogIn/SignUp UI
+ * Animations & Transitions
+ * Custom Button Shape
+ * Intro Splash Screen
+ 
 Augemented Reality in Android (Java, XML)
 ---
 * TF is this AR tho?
