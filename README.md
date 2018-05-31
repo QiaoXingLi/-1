@@ -92,6 +92,18 @@ P.S. Head over to Python Pyrexia for python code base.
  * [Using ANN in Java (Weka)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Java%20Weka%20ANN%20(BangEng%20Num%20Detect))
  * [Using Python (Keras)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Python%20(Bang%20Eng%20Number%20Detection)
 
+Compiler Codes
+---
+* [LEX & YACC Codes](https://github.com/SaadAAkash/CompilerCodes)
+  * Regex libs and examples
+  * A lexical analyzer and parser for calculator
+  * A parser in Java
+  * Three-address Code (3AC) for Assignment Statements
+  * Three-address Code (3AC) for Assignment and Conditional Statements
+  * Three-address Code (3AC) for Assignment, Conditional Statements and Functions
+  * Target Code for Lang X for Assignment, Conditional Statements and functions
+  * Optimized MIPS code for SPIM processor
+
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
 * Coding a categorically nonsence (**yet, monumentally helpful**) activity generator which actually does nothing on shell except convincing the imbecile halfwits around you that you're a multitasking pro
