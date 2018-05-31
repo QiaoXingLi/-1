@@ -86,8 +86,7 @@ P.S. Head over to Python Pyrexia for python code base.
  * Genetic Algorithm Implementation
  * Class Routine Auto Scheduler
  * IDS with BFS
- * KMeansClustering
- 
+ * KMeansClustering 
 * OCR Digit Detection
  * DataSet (English & Bengali)
  * ANN (Java Weka)
