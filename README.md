@@ -88,11 +88,9 @@ P.S. Head over to Python Pyrexia for python code base.
  * IDS with BFS
  * KMeansClustering 
 * OCR Digit Detection
- * DataSet (English & Bengali)
- * Using ANN in Java (Weka)
- * Using Python (Keras)
-
-
+ * [DataSet (English & Bengali)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Bang%20Eng%20Numbers%20DATASET)
+ * [Using ANN in Java (Weka)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Java%20Weka%20ANN%20(BangEng%20Num%20Detect))
+ * [Using Python (Keras)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Python%20(Bang%20Eng%20Number%20Detection)
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
