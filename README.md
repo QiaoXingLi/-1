@@ -81,16 +81,17 @@ P.S. Head over to Python Pyrexia for python code base.
 * [AI Prolog Basic Codes](https://github.com/SaadAAkash/AIPrologCodes)
 * [AI Lisp Basic Codes](https://github.com/SaadAAkash/AILispCodes)
 * [AI Java Basic Implementations](https://github.com/SaadAAkash/AICodes)
- * 8 Puzzle (C++)
- * 8 Puzzle Implementation (Java)
- * Genetic Algorithm Implementation
- * Class Routine Auto Scheduler
- * IDS with BFS
- * KMeansClustering 
+  * 8 Puzzle (C++)
+  * 8 Puzzle Implementation (Java)
+  * Genetic Algorithm Implementation
+  * Class Routine Auto Scheduler
+  * IDS with BFS
+  * KMeansClustering 
+
 * OCR Digit Detection
- * [DataSet (English & Bengali)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Bang%20Eng%20Numbers%20DATASET)
- * [Using ANN in Java (Weka)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Java%20Weka%20ANN%20(BangEng%20Num%20Detect))
- * [Using Python (Keras)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Python%20(Bang%20Eng%20Number%20Detection)
+  * [DataSet (English & Bengali)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Bang%20Eng%20Numbers%20DATASET)
+  * [Using ANN in Java (Weka)](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Java%20Weka%20ANN%20(BangEng%20Num%20Detect))
+  * [Using Python in Keras](https://github.com/SaadAAkash/AICodes/tree/master/OCR%20Python%20(Bang%20Eng%20Number%20Detection))
 
 Compiler Codes
 ---
@@ -103,6 +104,15 @@ Compiler Codes
   * Three-address Code (3AC) for Assignment, Conditional Statements and Functions
   * Target Code for Lang X for Assignment, Conditional Statements and functions
   * Optimized MIPS code for SPIM processor
+
+Peripheral-and-Interfacing
+---
+* [Arduino](https://github.com/SaadAAkash/Peripheral-and-Interfacing)
+  * LCD
+  * LED
+  * Motor Testing
+  * PhoneBook Database
+  * Digital Clock Implementation
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
