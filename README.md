@@ -81,6 +81,18 @@ P.S. Head over to Python Pyrexia for python code base.
 * AI Prolog Basic Codes
 * AI Lisp Basic Codes
 * AI Java Basic Implementations
+ * 8 Puzzle (C++)
+ * 8 Puzzle Implementation (Java)
+ * Genetic Algorithm Implementation
+ * Class Routine Auto Scheduler
+ * IDS with BFS
+ * KMeansClustering
+ 
+* OCR Digit Detection
+ * DataSet (English & Bengali)
+ * ANN (Java Weka)
+ * Python
+
 
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
