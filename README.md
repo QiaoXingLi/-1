@@ -78,9 +78,9 @@ AI Course Study Codebase (Prolog, LISP, MATLAB, JAVA & JS)
 ---
 P.S. Head over to Python Pyrexia for python code base.
 
-* AI Prolog Basic Codes
-* AI Lisp Basic Codes
-* AI Java Basic Implementations
+* [AI Prolog Basic Codes](https://github.com/SaadAAkash/AIPrologCodes)
+* [AI Lisp Basic Codes](https://github.com/SaadAAkash/AILispCodes)
+* [AI Java Basic Implementations](https://github.com/SaadAAkash/AICodes)
  * 8 Puzzle (C++)
  * 8 Puzzle Implementation (Java)
  * Genetic Algorithm Implementation
@@ -89,8 +89,8 @@ P.S. Head over to Python Pyrexia for python code base.
  * KMeansClustering 
 * OCR Digit Detection
  * DataSet (English & Bengali)
- * ANN (Java Weka)
- * Python
+ * Using ANN in Java (Weka)
+ * Using Python (Keras)
 
 
 
