@@ -74,6 +74,21 @@ React Rants
 * ReactJS Codes
 * React Native Codes
 
+Data Visualization
+---
+* R
+  * Plotly
+  * ggplot2
+  * SunburstR
+* JavaScript
+  * Plotly JS
+  * D3 JS
+  * Sigma JS
+* Python
+  * Plotly
+  * Seaborn
+  * Matplotlib
+
 AI Course Study Codebase (Prolog, LISP, MATLAB, JAVA & JS)
 ---
 P.S. Head over to Python Pyrexia for python code base.
