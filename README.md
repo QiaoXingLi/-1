@@ -48,6 +48,7 @@ Behold my custom template codes for Android Native applications that I built and
  * Animations & Transitions
  * Custom Button Shape
  * Intro Splash Screen
+* [Open-Source Android Apps With Clean Code Principles](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
  
 Augemented Reality in Android (Java, XML)
 ---
