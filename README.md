@@ -14,6 +14,9 @@ The shell always returns:
 >> *Linus Benedict Torvalds*
 ---
 
+One rule to rule them all:
+[Keep calm & code clean](http://shhetri.github.io/clean-code/#/4)
+
 Paranoid Android (Java, XML)
 ---
 Behold my custom template codes for Android Native applications that I built and *other stuffs that make -1 sense*.
@@ -22,7 +25,7 @@ Behold my custom template codes for Android Native applications that I built and
  * Project Structure 
  * Package Contents
  * Receivers, Listeners & Adapters
-* Facebook Account Kit OTP
+* [Facebook Account Kit OTP](https://github.com/fbsamples/account-kit-samples-for-android/tree/master/samples/AccountKitSimpleSample)
 * Google Map
 * Camera
   * CameraManager
@@ -32,7 +35,7 @@ Behold my custom template codes for Android Native applications that I built and
   * Image Upload to API
   * Text + Image Upload (Multipart) to API
 * Data Uploading with Retrofit (GET, POST, PUT, DELETE)
-* Data Storing with SharedPreference
+* [Data Storing with SharedPreference](https://github.com/mitchtabian/SharedPreferences)
 * Passing Data with Intents
 * Accessing Device Properties in Real Time
   * Battery State
@@ -40,8 +43,12 @@ Behold my custom template codes for Android Native applications that I built and
   * Network Connectivity State
 * Working with JSON data
   * Parsing JSON Array and JSON Object from API 
-  * Dynamic Form Template Generation from JSON Data 
+  * [Dynamic Form Template Generation from JSON Data](https://github.com/vijayrawatsan/android-json-form-wizard)
 * Material UI Design
+ * Material Login UI
+   * [Design 01](https://github.com/CodelightStudios/Android-Smart-Login)
+   * [Design 02](https://github.com/andrebts/login-basics)
+   * [Design 03](https://github.com/shem8/MaterialLogin)
  * Bottom Navigation UI
  * CardView + RecyclerView UI
  * LogIn/SignUp UI
@@ -49,7 +56,11 @@ Behold my custom template codes for Android Native applications that I built and
  * Custom Button Shape
  * Intro Splash Screen
  * [Flirting with Charts](https://github.com/PhilJay/MPAndroidChart)
+ * [Playing with Beautiful Toasts](https://github.com/GrenderG/Toasty)
+ * [Coordinator Tab Layout](https://github.com/hugeterry/CoordinatorTabLayout)
 * [Open-Source Android Apps With Clean Code Principles](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
+* [Ultimate Reference Library Guide](https://github.com/aritraroy/UltimateAndroidReference)
+* [An easy, comprehensive course course materials](https://github.com/hasancse91/Android-Development-Course)
  
 Augemented Reality in Android (Java, XML)
 ---
@@ -78,6 +89,10 @@ React Rants
   * [FB React App Basic Template](https://github.com/facebook/create-react-app)
 * React-Redux Resources
   * [General Resources](https://github.com/enaqx/awesome-react)
+  
+React Native
+---
+* [Simple Weather App: Android + iOS](https://github.com/thinkmobiles/ReactNative_Weather_app_source)
 
 Data Visualization
 ---
@@ -139,6 +154,7 @@ Peripheral-and-Interfacing
 ML, DL, RL
 ---
 * [Titanic : Machine Learning from Disaster](https://github.com/iphton/Kaggle-Competition/tree/gh-pages/Titanic%20Competition)
+* [Cheatsheets for quick beats](https://github.com/kailashahirwar/cheatsheets-ai)
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
