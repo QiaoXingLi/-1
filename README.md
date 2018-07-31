@@ -19,7 +19,7 @@ Paranoid Android (Java, XML)
 Behold my custom template codes for Android Native applications that I built and *other stuffs that make -1 sense*.
 
 * Best practices in Android
- * Project Structure
+ * Project Structure 
  * Package Contents
  * Receivers, Listeners & Adapters
 * Facebook Account Kit OTP
@@ -76,7 +76,8 @@ React Rants
 * ReactJS Codes
   * [First React JS app](https://github.com/avastamin/miib-reactjs-fundamental)
   * [FB React App Basic Template](https://github.com/facebook/create-react-app)
-* React Native Codes
+* React-Redux Resources
+  * [General Resources](https://github.com/enaqx/awesome-react)
 
 Data Visualization
 ---
