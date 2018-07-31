@@ -48,6 +48,7 @@ Behold my custom template codes for Android Native applications that I built and
  * Animations & Transitions
  * Custom Button Shape
  * Intro Splash Screen
+ * [Flirting with Charts](https://github.com/PhilJay/MPAndroidChart)
 * [Open-Source Android Apps With Clean Code Principles](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
  
 Augemented Reality in Android (Java, XML)
@@ -73,6 +74,8 @@ React Rants
 ---
 * Don't **React** Just Yet! Read first.
 * ReactJS Codes
+  * [First React JS app](https://github.com/avastamin/miib-reactjs-fundamental)
+  * [FB React App Basic Template](https://github.com/facebook/create-react-app)
 * React Native Codes
 
 Data Visualization
@@ -129,6 +132,12 @@ Peripheral-and-Interfacing
   * Motor Testing
   * PhoneBook Database
   * Digital Clock Implementation
+* Processing
+  * Topics-TBA
+  
+ML, DL, RL
+---
+* [Titanic : Machine Learning from Disaster](https://github.com/iphton/Kaggle-Competition/tree/gh-pages/Titanic%20Competition)
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
