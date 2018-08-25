@@ -76,6 +76,11 @@ Python Pyrexia (Python, mostly, duh?)
 * It's Data Science, not Rocket
 * Too err is Human, not AI
 
+Noble Node
+---
+* [Simple Server](https://github.com/SaadAAkash/-1/tree/master/NodeJS/01simpleserver)
+* [File Server with Bootstrap](https://github.com/SaadAAkash/-1/tree/master/NodeJS/02webserver)
+
 Mourning over MERN (MongoDB, Express, ReactJS, NodeJS, Redux and Webpack) Stack
 ---
 * Don't be so MEAN (MongoDB, Express.js, AngularJS & Node.js) to MERN
@@ -100,14 +105,16 @@ Data Visualization
   * Plotly
   * ggplot2
   * SunburstR
-* JavaScript
-  * Plotly JS
-  * D3 JS
-  * Sigma JS
+* JavaScript (Plotly JS, D3 JS, Sigma JS)
+  * [Data Surface Plotting in 3D](https://github.com/SaadAAkash/-1/tree/master/DataVisualization/3DSurfacePlot)
+  * [Data Range Slider](https://github.com/SaadAAkash/-1/tree/master/DataVisualization/RangeSlider)
+  * [Line Chart](https://github.com/SaadAAkash/-1/tree/master/DataVisualization/SimpleLineChartForPapers)
+  * [Website Navigation Flow Reseach using Sunburst 3D](https://github.com/SaadAAkash/-1/tree/master/DataVisualization/SunburstD3)
 * Python
   * Plotly
   * Seaborn
   * Matplotlib
+* [Data Visualization Project on real survey data] (https://github.com/SaadAAkash/-1/blob/master/DataVisualization/Pigeo/)
 
 AI Course Study Codebase (Prolog, LISP, MATLAB, JAVA & JS)
 ---
