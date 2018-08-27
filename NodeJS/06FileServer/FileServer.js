@@ -21,3 +21,5 @@ http.createServer(function (req, res) {
 
 console.log('running');
 
+
+//now go to http://localhost:8080/summer.html or http://localhost:8080/winter.html
