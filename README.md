@@ -76,10 +76,26 @@ Python Pyrexia (Python, mostly, duh?)
 * It's Data Science, not Rocket
 * Too err is Human, not AI
 
-Noble Node
+
+Noble NodeJS
 ---
 * [Simple Server](https://github.com/SaadAAkash/-1/tree/master/NodeJS/01simpleserver)
 * [File Server with Bootstrap](https://github.com/SaadAAkash/-1/tree/master/NodeJS/02webserver)
+* [Using Your Own Custom Module for Date-Time Micro Service](https://github.com/SaadAAkash/-1/tree/master/NodeJS/03custommodule)
+* [Read & Split Server Query](https://github.com/SaadAAkash/-1/tree/master/NodeJS/04ReadAndSplitQuery)
+* [Read Files from File Server](https://github.com/SaadAAkash/-1/tree/master/NodeJS/05ReadFiles)
+* [File Uploading & URL Management in File Server](https://github.com/SaadAAkash/-1/tree/master/NodeJS/06FileServer)
+* [Sending and Managing Emails](https://github.com/SaadAAkash/-1/tree/master/NodeJS/07Email)
+* [Notes and Tutorials on Basics & MicroServices](https://github.com/SaadAAkash/-1/tree/master/NodeJS/tuts)
+
+Express your feelings via an API endpoint
+---
+* [Intorduction to Express - A NodeJS Framework](https://github.com/SaadAAkash/-1/tree/master/Express/01HelloWorld)
+* [Routing with Express](https://github.com/SaadAAkash/-1/tree/master/Express/02RoutingAPI)
+
+MEN will be MEN
+---
+* [RESTful CRUD (Create, Retrieve, Update, Delete) API - Node.js, Express and MongoDB](https://github.com/SaadAAkash/-1/tree/master/MERN/01BasicCRUD)
 
 Mourning over MERN (MongoDB, Express, ReactJS, NodeJS, Redux and Webpack) Stack
 ---
