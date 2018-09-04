@@ -22,7 +22,17 @@ Paranoid Android (Java, XML)
 Behold my custom template codes for Android Native applications that I built and *other stuffs that make -1 sense*.
 
 * Best practices in Android
- * Project Structure 
+ * Project Structure
+ * [Patterns: Design & Architecture Are NOT The Same](https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns)
+ * Which Architecture to Use?
+   * [MVP VS MVVM](https://github.com/florina-muntenescu/MVPvsMVVM#model-view-presenter-vs-model-view-viewmodel)
+   * [Uncle Bob & VIPER](http://luboganev.github.io/post/clean-architecture-pt2/)
+   * [VIPER](https://cheesecakelabs.com/blog/using-viper-architecture-android/)
+   ![VIPER](https://www.objc.io/images/issue-13/2014-06-07-viper-intro-0a53d9f8.jpg "VIPER")
+   * VIPER Samples
+      * Java Code Base
+      * [Kotlin Code Base](https://gist.github.com/marciogranzotto/1c96e87484a17bd914e159b2604e6469)
+
  * Package Contents
  * Receivers, Listeners & Adapters
 * [Facebook Account Kit OTP](https://github.com/fbsamples/account-kit-samples-for-android/tree/master/samples/AccountKitSimpleSample)
@@ -104,7 +114,7 @@ Mourning over MERN (MongoDB, Express, ReactJS, NodeJS, Redux and Webpack) Stack
 
 React Rants
 ---
-* Don't **React** Just Yet! Read first.
+* Don't **React** Just Yet! [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
 * ReactJS Codes
   * [First React JS app](https://github.com/avastamin/miib-reactjs-fundamental)
   * [FB React App Basic Template](https://github.com/facebook/create-react-app)
