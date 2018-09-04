@@ -186,6 +186,7 @@ ML, DL, RL
 ---
 * [Titanic : Machine Learning from Disaster](https://github.com/iphton/Kaggle-Competition/tree/gh-pages/Titanic%20Competition)
 * [Cheatsheets for quick beats](https://github.com/kailashahirwar/cheatsheets-ai)
+* [Flux](http://fluxml.ai/)
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
