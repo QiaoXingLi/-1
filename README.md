@@ -28,13 +28,10 @@ Behold my custom template codes for Android Native applications that I built and
    * [MVP VS MVVM](https://github.com/florina-muntenescu/MVPvsMVVM#model-view-presenter-vs-model-view-viewmodel)
    * [Uncle Bob & VIPER](http://luboganev.github.io/post/clean-architecture-pt2/)
    * [VIPER](https://cheesecakelabs.com/blog/using-viper-architecture-android/)
-
    ![VIPER](https://www.objc.io/images/issue-13/2014-06-07-viper-intro-0a53d9f8.jpg "VIPER")
-
    * VIPER Samples
       * Java Code Base
       * [Kotlin Code Base](https://gist.github.com/marciogranzotto/1c96e87484a17bd914e159b2604e6469)
-
  * Package Contents
  * Receivers, Listeners & Adapters
 * [Facebook Account Kit OTP](https://github.com/fbsamples/account-kit-samples-for-android/tree/master/samples/AccountKitSimpleSample)
