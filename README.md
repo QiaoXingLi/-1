@@ -95,6 +95,7 @@ Noble NodeJS
 * [File Uploading & URL Management in File Server](https://github.com/SaadAAkash/-1/tree/master/NodeJS/06FileServer)
 * [Sending and Managing Emails](https://github.com/SaadAAkash/-1/tree/master/NodeJS/07Email)
 * [Notes and Tutorials on Basics & MicroServices](https://github.com/SaadAAkash/-1/tree/master/NodeJS/tuts)
+* [Definitive NodeJS Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
 Express your feelings via an API endpoint
 ---
