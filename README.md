@@ -117,6 +117,7 @@ React Rants
 * ReactJS Codes
   * [First React JS app](https://github.com/avastamin/miib-reactjs-fundamental)
   * [FB React App Basic Template](https://github.com/facebook/create-react-app)
+  * [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 * React-Redux Resources
   * [General Resources](https://github.com/enaqx/awesome-react)
   
