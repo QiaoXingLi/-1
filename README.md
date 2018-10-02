@@ -106,11 +106,6 @@ MEN will be MEN
 ---
 * [RESTful CRUD (Create, Retrieve, Update, Delete) API - Node.js, Express and MongoDB](https://github.com/SaadAAkash/-1/tree/master/MERN/01BasicCRUD)
 
-Mourning over MERN (MongoDB, Express, ReactJS, NodeJS, Redux and Webpack) Stack
----
-* Don't be so MEAN (MongoDB, Express.js, AngularJS & Node.js) to MERN
-* Getting Started with MERN
-
 React Rants
 ---
 * Don't **React** Just Yet! [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
