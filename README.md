@@ -185,6 +185,11 @@ ML, DL, RL
 * [Cheatsheets for quick beats](https://github.com/kailashahirwar/cheatsheets-ai)
 * [Flux](http://fluxml.ai/)
 
+Scrum
+---
+* [Scrum official](https://www.scrumguides.org/scrum-guide.html)
+* [Learn Scrum](https://github.com/imalitavakoli/learn-scrum)
+
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
 * Coding a categorically nonsence (**yet, monumentally helpful**) activity generator which actually does nothing on shell except convincing the imbecile halfwits around you that you're a multitasking pro
