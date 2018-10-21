@@ -110,17 +110,13 @@ MEN will be MEN
 ---
 * [RESTful CRUD (Create, Retrieve, Update, Delete) API - Node.js, Express and MongoDB](https://github.com/SaadAAkash/-1/tree/master/MERN/01BasicCRUD)
 
-Mourning over MERN (MongoDB, Express, ReactJS, NodeJS, Redux and Webpack) Stack
----
-* Don't be so MEAN (MongoDB, Express.js, AngularJS & Node.js) to MERN
-* Getting Started with MERN
-
 React Rants
 ---
 * Don't **React** Just Yet! [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
 * ReactJS Codes
   * [First React JS app](https://github.com/avastamin/miib-reactjs-fundamental)
   * [FB React App Basic Template](https://github.com/facebook/create-react-app)
+  * [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 * React-Redux Resources
   * [General Resources](https://github.com/enaqx/awesome-react)
   
@@ -192,6 +188,11 @@ ML, DL, RL
 * [Titanic : Machine Learning from Disaster](https://github.com/iphton/Kaggle-Competition/tree/gh-pages/Titanic%20Competition)
 * [Cheatsheets for quick beats](https://github.com/kailashahirwar/cheatsheets-ai)
 * [Flux](http://fluxml.ai/)
+
+Scrum
+---
+* [Scrum official](https://www.scrumguides.org/scrum-guide.html)
+* [Learn Scrum](https://github.com/imalitavakoli/learn-scrum)
 
 -1 way to Fool Your Boss Into Believing Hilarious Stuffs (ie, You believe in rolling up your sleeves even on weekends & you're working really hard all the time 24x7!)
 ---
